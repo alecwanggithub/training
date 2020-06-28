@@ -1,5 +1,5 @@
 variable "command" {
-  default = "echo 'Hello World'"
+  default = "echo 'Hello World!'"
 }
 
 resource "null_resource" "null" {
